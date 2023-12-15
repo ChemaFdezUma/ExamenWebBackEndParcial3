@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Concierto de rock",
+        "timestamp": "2023-12-16T20:00:00Z",
+        "lugar": "Parque de la Música, Sevilla, España",
+        "lat": 37.388262,
+        "lon": -5.981524,
+        "organizador": "juan.perez@example.com",
+        "imagen": "https://example.com/imagenes/concierto-rock.jpg"
+    },
+    {
+        "nombre": "Festival de música electrónica",
+        "timestamp": "2023-12-22T22:00:00Z",
+        "lugar": "Plaza de España, Madrid, España",
+        "lat": 40.416849,
+        "lon": -3.691063,
+        "organizador": "maria.lopez@example.com",
+        "imagen": "https://example.com/imagenes/festival-musica-electronica.jpg"
+    },
+    {
+        "nombre": "Exposición de arte",
+        "timestamp": "2023-12-29T18:00:00Z",
+        "lugar": "Museo del Prado, Madrid, España",
+        "lat": 40.416849,
+        "lon": -3.691063,
+        "organizador": "museoprado@example.com",
+        "imagen": "https://example.com/imagenes/exposicion-arte.jpg"
+    },
+    {
+        "nombre": "Partido de fútbol",
+        "timestamp": "2023-12-31T20:00:00Z",
+        "lugar": "Estadio Santiago Bernabéu, Madrid, España",
+        "lat": 40.416849,
+        "lon": -3.691063,
+        "organizador": "realmadrid@example.com",
+        "imagen": "https://example.com/imagenes/partido-futbol.jpg"
+    },
+    {
+        "nombre": "Concierto de jazz",
+        "timestamp": "2024-01-05T21:00:00Z",
+        "lugar": "Teatro Real, Madrid, España",
+        "lat": 40.416849,
+        "lon": -3.691063,
+        "organizador": "teatroreal@example.com",
+        "imagen": "https://example.com/imagenes/concierto-jazz.jpg"
+    },
+    {
+        "nombre": "Concierto de pop",
+        "timestamp": "2024-01-12T22:00:00Z",
+        "lugar": "Palacio de Deportes, Barcelona, España",
+        "lat": 41.388429,
+        "lon": 2.168377,
+        "organizador": "sonymusic@example.com",
+        "imagen": "https://example.com/imagenes/concierto-pop.jpg"
+    },
+    {
+        "nombre": "Festival de cine",
+        "timestamp": "2024-01-19T19:00:00Z",
+        "lugar": "Festival de Cine de San Sebastián, San Sebastián, España",
+        "lat": 43.322745,
+        "lon": -1.988064,
+        "organizador": "festivalcinedonostia@example.com",
+        "imagen": "https://example.com/imagenes/festival-cine.jpg"
+    },
+    {
+        "nombre": "Conferencia de tecnología",
+        "timestamp": "2024-01-26T17:00:00Z",
+        "lugar": "Pabellón de Cristal, Madrid, España",
+        "lat": 40.416849,
+        "lon": -3.691063,
+        "organizador": "microsoft@example.com",
+        "imagen": "https://example.com/imagenes/conferencia-tecnologia.jpg"
+    }
+]
